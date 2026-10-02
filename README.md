@@ -6,7 +6,7 @@ OpenJade is an independent recompilation of the Jade engine, designed to support
 - Prince of Persia: Warrior Within
 - Prince of Persia: The Two Thrones
 
-Currently, only Prince of Persia: Warrior Within is supported.
+Currently, only Prince of Persia: Warrior Within and Prince of Persia: The Two Thrones are supported.
 
 ## How to install
 
