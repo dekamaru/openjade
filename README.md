@@ -6,7 +6,20 @@ OpenJade is an independent recompilation of the Jade engine, designed to support
 - Prince of Persia: Warrior Within
 - Prince of Persia: The Two Thrones
 
-Currently, only Prince of Persia: Warrior Within and Prince of Persia: The Two Thrones are supported.
+Currently, Prince of Persia: Sands of time is **not** supported.
+
+## Unique Features
+1. **Native x64 architecture** with frame-rate-independent game logic, allowing smooth gameplay at **60+ FPS**
+2. **Modern display support**, including multiple monitors, widescreen and ultrawide resolutions, borderless fullscreen, and windowed modes
+3. **Full controller support**, including vibration and in-game button icons
+4. **Flexible camera settings**, with per-axis controls, custom FOV, and the option to disable motion blur
+5. **Hold-to-skip support** for in-game movies
+6. **Significantly faster loading**
+7. **Multiple HUD layouts**, including PS2/Xbox, and PC styles
+8. **Controller-friendly UI**, redesigned for easier navigation with a gamepad
+9. **Modern media format support**:
+    - Replace `.BIK` videos with `.mp4` files using the same filename (for example, `CREDITS.mp4`)
+    - Replace artwork `.BIK` files with `.png` or `.jpg` images
 
 ## How to install
 
