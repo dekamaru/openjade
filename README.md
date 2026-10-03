@@ -12,7 +12,7 @@ Currently, Prince of Persia: Sands of time is **not** supported.
 1. **Native x64 architecture** with frame-rate-independent game logic, allowing smooth gameplay at **60+ FPS**
 2. **Modern display support**, including multiple monitors, widescreen and ultrawide resolutions, borderless fullscreen, and windowed modes
 3. **Full controller support**, including vibration and in-game button icons
-4. **Flexible camera settings**, with per-axis controls, custom FOV, and the option to disable motion blur
+4. **Flexible camera settings**, with per-axis controls, custom FOV, and the option to disable blur
 5. **Hold-to-skip support** for in-game movies
 6. **Significantly faster loading**
 7. **Multiple HUD layouts**, including PS2/Xbox, and PC styles
