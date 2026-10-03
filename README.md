@@ -1,6 +1,6 @@
 # OpenJade
 
-OpenJade is an independent recompilation of the Jade engine, designed to support the Prince of Persia trilogy:
+OpenJade is an independent implementation of the Jade engine, designed to support the Prince of Persia trilogy:
 
 - Prince of Persia: The Sands of Time
 - Prince of Persia: Warrior Within
