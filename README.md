@@ -16,7 +16,7 @@ OpenJade is an independent implementation of the Jade engine, designed to suppor
 7. **Multiple HUD layouts**, including PS2/Xbox, and PC styles
 8. **Controller-friendly UI**, redesigned for easier navigation with a gamepad
 9. **Modern media format support**:
-    - Replace `.BIK` videos with `.mp4` files using the same filename (for example, `CREDITS.mp4`)
+    - Replace `.BIK` or `.int` videos with `.mp4` files using the same filename (for example, `CREDITS.mp4`)
     - Replace artwork `.BIK` files with `.png` or `.jpg` images
 
 ## How to install
