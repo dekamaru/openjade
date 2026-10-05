@@ -6,8 +6,6 @@ OpenJade is an independent implementation of the Jade engine, designed to suppor
 - Prince of Persia: Warrior Within
 - Prince of Persia: The Two Thrones
 
-Currently, Prince of Persia: Sands of time is **not** supported.
-
 ## Unique Features
 1. **Native x64 architecture** with frame-rate-independent game logic, allowing smooth gameplay at **60+ FPS**
 2. **Modern display support**, including multiple monitors, widescreen and ultrawide resolutions, borderless fullscreen, and windowed modes
