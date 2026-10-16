@@ -28,6 +28,6 @@ OpenJade is an independent implementation of the Jade engine, designed to suppor
 
 ## How to report bugs
 
-Report bugs on our [Discord server](https://discord.gg/XhHVx3HYHh) or through [GitHub Issues](https://github.com/dekamaru/openjade/issues).
+Report bugs on our [Discord server](https://discord.gg/XhHVx3HYHh).
 
 This project is not affiliated with, endorsed by, or sponsored by Ubisoft or any other rights holder of the original games. All trademarks are the property of their respective owners. References to the games identify the project's intended compatibility.
