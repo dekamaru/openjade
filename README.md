@@ -8,14 +8,16 @@ OpenJade is an independent implementation of the Jade engine, designed to suppor
 
 ## Unique Features
 1. **Native x64 architecture** with frame-rate-independent game logic, allowing smooth gameplay at **60+ FPS**
-2. **Modern display support**, including multiple monitors, widescreen and ultrawide resolutions, borderless fullscreen, and windowed modes
-3. **Full controller support**, including vibration and in-game button icons
-4. **Flexible camera settings**, with per-axis controls, custom FOV, and the option to disable blur
-5. **Hold-to-skip support** for in-game movies
-6. **Significantly faster loading**
-7. **Multiple HUD layouts**, including PS2/Xbox, and PC styles
-8. **Controller-friendly UI**, redesigned for easier navigation with a gamepad
-9. **Modern media format support**:
+2. **Vulkan** native rendering.
+3. **OpenAL** native 3D Audio support.
+4. **Modern display support**, including multiple monitors, widescreen and ultrawide resolutions, borderless fullscreen, and windowed modes
+5. **Full controller support**, including vibration and in-game button icons
+6. **Flexible camera settings**, with per-axis controls, custom FOV, and the option to disable blur
+7. **Hold-to-skip support** for in-game movies
+8. **Significantly faster loading**
+9. **Multiple HUD layouts**, including PS2/Xbox, and PC styles
+10. **Controller-friendly UI**, redesigned for easier navigation with a gamepad
+11. **Modern media format support**:
     - Replace `.BIK` or `.int` videos with `.mp4` files using the same filename (for example, `CREDITS.mp4`)
     - Replace artwork `.BIK` files with `.png` or `.jpg` images
 
